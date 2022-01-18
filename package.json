@@ -6,7 +6,7 @@
   "scripts": {
     "test": "jest"
   },
-  "start": "node server.js"
+  "start": "node server.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/horsfalm/u-develop-it.git"
